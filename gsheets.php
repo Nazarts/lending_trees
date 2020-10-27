@@ -6,6 +6,7 @@ define('CREDENTIALS_PATH', __DIR__.'/credentials/');
  * Returns an authorized API client.
  * @return Google_Client the authorized client object
  */
+
 class GSheetsHandler{
     public function __construct($client=null)
     {
