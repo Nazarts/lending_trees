@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c96ce8d4-b1b4-4b00-ad9b-f84cc6b4d623" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1jSMvo5E2onLd7iuOaNkitEdieH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c96ce8d4-b1b4-4b00-ad9b-f84cc6b4d623" name="Default Changelist" comment="" />
+      <created>1603793272279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603793272279</updated>
+      <workItem from="1603793273294" duration="11884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="791" y="480" width="399" height="156" key="NewPhpFileDialog" timestamp="1603795053363">
+      <screen x="72" y="29" width="1848" height="1051" />
+    </state>
+    <state x="791" y="480" width="399" height="156" key="NewPhpFileDialog/72.29.1848.1051@72.29.1848.1051" timestamp="1603795053363" />
+    <state x="687" y="293" width="707" height="522" key="find.popup" timestamp="1603801619403">
+      <screen x="72" y="29" width="1848" height="1051" />
+    </state>
+    <state x="687" y="293" width="707" height="522" key="find.popup/72.29.1848.1051@72.29.1848.1051" timestamp="1603801619403" />
+    <state x="721" y="468" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1603802323673">
+      <screen x="72" y="29" width="1848" height="1051" />
+    </state>
+    <state x="721" y="468" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.29.1848.1051@72.29.1848.1051" timestamp="1603802323673" />
+  </component>
+</project>
